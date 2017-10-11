@@ -1,0 +1,17 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.container{
+    background-color: #ebe7db;
+}
+@media (min-width: 992px){
+	.container{
+		width: 500px;
+	}
+}
+.heading_hotel h3{
+    font-family: italic;
+}
+.heading_hotel h6{
+	font-family: 'Montserrat', sans-serif;
+}
