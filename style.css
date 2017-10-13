@@ -15,3 +15,15 @@ body{
 .heading_hotel h6{
 	font-family: 'Montserrat', sans-serif;
 }
+.index_admininven_btn a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.admin_billinven_btn a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.inven_adminbill_btn a{
+	text-decoration: none;
+	color: #ffffff;
+}

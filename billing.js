@@ -8,7 +8,7 @@ var gt="";
 $(document).ready(function(){
 	$.ajax({
 		type:"GET",
-		url:"http://59dc2a0ac86a4f00124c57b4.mockapi.io/billing",
+		url:"https://59dc2a0ac86a4f00124c57b4.mockapi.io/billing",
 		dataType:"json",
 		success:function(result){
 			var text="<option>"+"select..."+"</option>"
